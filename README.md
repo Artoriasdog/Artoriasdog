@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Artoriasdog
+- 👀 I’m interested in learning
+- 🌱 I’m currently learning git, github and c#
+- 📫 How to reach me: thereza.acf@gmail.com
+- 🇧🇷 Brazil
